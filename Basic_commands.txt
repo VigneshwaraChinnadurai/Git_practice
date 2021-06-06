@@ -1,0 +1,16 @@
+git clone https_link
+
+git add file_name
+
+git add .
+
+git status
+
+git remote add upstream link
+
+git fetch upstream
+
+git commit
+
+git push
+
